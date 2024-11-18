@@ -1,2 +1,3 @@
 openpyxl
-openai
+openai==0.27.2
+
