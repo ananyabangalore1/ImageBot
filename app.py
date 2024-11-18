@@ -1,5 +1,5 @@
 import streamlit as st
-#import openai
+import openai
 import pandas as pd #this is for the excel
 from PIL import Image
 import os
