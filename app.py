@@ -7,7 +7,7 @@ import os
 sample_folder = "sample_images"
 
 # List all image files in the folder
-sample_images = [f for f in os.listdir(sample_folder) if f.endswith(('png', 'jpg', 'jpeg'))]
+#sample_images = [f for f in os.listdir(sample_folder) if f.endswith(('png', 'jpg', 'jpeg'))]
 # Function to load and display Excel data
 def load_excel(file):
     df = pd.read_excel(file)
